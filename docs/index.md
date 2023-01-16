@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Welcome to the Wiki
+Welcome to the Lost Lands Wiki. Here you can find general and helpful information about the server. 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Navigating the Wiki
 
-## Commands
+Use the navigation links at the top and on the sidebar to browse content. Additionally, the search bar can be used to search the site's content.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Joining the Server
+### Java Edition
 
-## Project layout
+You can connect to Lost Lands using the latest version of Minecraft with the following details:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+IP: `lostlands.org`
+
+### Bedrock Edition
+Unfortunately Bedrock edition is currently not supported. This is something we will consider if there is enough interest though!

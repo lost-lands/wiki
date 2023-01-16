@@ -3,6 +3,12 @@ site_url: https://wiki.lostlands.org/
 repo_url: https://github.com/lost-lands/wiki
 repo_name: lost-lands/wiki
 
+nav:
+  - Home: index.md
+  - SMP:
+      - Home: smp/index.md
+      - Claims: smp/claims.md
+
 plugins:
   - search:
       lang: en
