@@ -1,3 +1,0 @@
-# Claims
-
-## Claiming Land
