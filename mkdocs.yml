@@ -4,14 +4,20 @@ repo_url: https://github.com/lost-lands/wiki
 repo_name: lost-lands/wiki
 
 nav:
-  - Home: index.md
+  - Home:
+    - Welcome: index.md
+    - Privacy: privacy.md
   - SMP:
       - Home: smp/index.md
-      - Claims: smp/claims.md
+      - Teleportation: smp/teleportation.md
+      - Gameplay Changes: smp/gameplay-changes.md
 
 plugins:
   - search:
       lang: en
+
+markdown_extensions:
+  - footnotes
 
 theme:
   name: material
