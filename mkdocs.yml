@@ -9,6 +9,8 @@ nav:
     - Privacy: privacy.md
   - SMP:
       - Home: smp/index.md
+      - Claims: smp/claims.md
+      - Locking: smp/locking.md
       - Teleportation: smp/teleportation.md
       - Gameplay Changes: smp/gameplay-changes.md
 
