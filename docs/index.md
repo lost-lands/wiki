@@ -14,3 +14,6 @@ IP: `lostlands.org`
 
 ### Bedrock Edition
 Unfortunately Bedrock edition is currently not supported. This is something we will consider if there is enough interest though!
+
+## Server Status
+Is the server up? Check the status [using this link](https://status.lostlands.org).
