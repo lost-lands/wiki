@@ -1,7 +1,10 @@
 # Gameplay Changes/Additions
 
+## Random Tick Speed
+The random tick speed has been changed from 3 to 9. This increases the rate at which certain things happen, such as crop growth. For more information and an entire list of what the random tick does, [see this Minecraft Wiki page](https://minecraft.fandom.com/wiki/Tick#Random_tick)
+
 ## Sleep
-The night can be quickly skipped if at least 33% of players are sleeping. 
+The night can be quickly skipped if at least 33% of players are sleeping. Insomnia (phantom spawning) is also disabled, but this may change in the future if there is a shift in what the community wants.
 
 ## Mining
 The server uses the [VeinMiner](https://www.spigotmc.org/resources/veinminer.12038/) plugin. This allows players to sneak (crouch) while mining to mine an entire vein of ore at once. A player's hunger and tool will be proportionally decreased with the size of the vein.
