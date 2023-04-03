@@ -13,7 +13,6 @@ nav:
       - Locking: smp/locking.md
       - Teleportation: smp/teleportation.md
       - Gameplay Changes: smp/gameplay-changes.md
-      - Special Use Districts: smp/specialuse.md
 
 plugins:
   - search:
